@@ -1,2 +1,2 @@
 # FiveSecondFrenzy
-A small collection of MiniGames that last 5 Seconds
+A small collection of minigames that last 5 Seconds
